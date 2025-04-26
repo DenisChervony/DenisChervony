@@ -1,6 +1,4 @@
-![Denis Chervony][logo]
-
-[logo]: https://github.com/DenisChervony/web-images/blob/main/DenisChervony.png "Denis Chervony"
+<img src="https://github.com/DenisChervony/web-images/blob/main/DenisChervony.png" alt="Denis Chervony" align="center" style="width:50%; height:auto;">
 
 # Привет, я Денис 👋
 
