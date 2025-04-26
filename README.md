@@ -1,4 +1,4 @@
-![alt text]([https://github.com/adam-p/markdown-here/raw/master/src/common/images/icon48.png](https://cdn1.tenchat.ru/static/vbc-gostinder/2022-12-14/compressed/a5f674eb-9605-4ce5-bc69-b14c4c198e55.png) "DenisChervony")
+![DenisChervony]([https://github.com/adam-p/markdown-here/raw/master/src/common/images/icon48.png](https://disk.yandex.ru/i/9qxahw6lqvNXAg) "DenisChervony")
 
 # Привет, я Денис 👋
 
