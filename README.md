@@ -14,9 +14,8 @@
 
 
 ### 📎Работал с инструментами:
+<a href="https://developer.android.com/studio?hl=ru" Target="_blank"><img src="https://github.com/DenisChervony/web-images/blob/main/Android_Studio_Logo_1024.png" alt="Android_Studio" width="48" height="48">
 <a href="https://www.figma.com/" Target="_blank"><img src="https://github.com/DenisChervony/web-images/blob/main/figma-colored.png" alt="Figma" width="48" height="48">
-
-![Android_Studio](https://github.com/DenisChervony/web-images/blob/main/Android_Studio_Logo_1024.png "Android_Studio")
 
 ![Chrome Dev Tools](https://github.com/DenisChervony/web-images/blob/main/chrome-dev-logo-icon.png "Chrome Dev Tools")
 
