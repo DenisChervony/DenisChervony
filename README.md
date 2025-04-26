@@ -14,7 +14,7 @@
 
 
 ### 📎Работал с инструментами:
-![Figma](image-url =48x48 https://github.com/DenisChervony/web-images/blob/main/figma-colored.png "Figma")
+![Figma](image-url=48x48 https://github.com/DenisChervony/web-images/blob/main/figma-colored.png "Figma")
 
 ![Android_Studio](https://github.com/DenisChervony/web-images/blob/main/Android_Studio_Logo_1024.png "Android_Studio")
 
