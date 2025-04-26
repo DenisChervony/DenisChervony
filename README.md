@@ -1,4 +1,4 @@
-![DenisChervony]([https://github.com/adam-p/markdown-here/raw/master/src/common/images/icon48.png](https://disk.yandex.ru/i/9qxahw6lqvNXAg) "DenisChervony")
+![DenisChervony]([[https://github.com/adam-p/markdown-here/raw/master/src/common/images/icon48.png](https://disk.yandex.ru/i/9qxahw6lqvNXAg)](https://drive.google.com/file/d/1eJ164RJABjTp27vOAlTnZBhjZgOzrRko/view?usp=sharing) "DenisChervony")
 
 # Привет, я Денис 👋
 
