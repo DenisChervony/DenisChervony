@@ -1,4 +1,6 @@
-![DenisChervony]( "DenisChervony")
+![Denis Chervony][logo]
+
+[logo]: https://github.com/DenisChervony/web-images/blob/main/DenisChervony.png "Denis Chervony"
 
 # Привет, я Денис 👋
 
@@ -12,6 +14,11 @@
 
 
 ### 📎Работал с инструментами:
+![Figma](https://github.com/DenisChervony/web-images/blob/main/figma-colored.png "Figma")
+
+![Android_Studio](https://github.com/DenisChervony/web-images/blob/main/Android_Studio_Logo_1024.png "Android_Studio")
+
+![Chrome Dev Tools](https://github.com/DenisChervony/web-images/blob/main/chrome-dev-logo-icon.png "Chrome Dev Tools")
 
 <!--
 **reDen777/reDen777** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
