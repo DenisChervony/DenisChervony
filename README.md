@@ -18,8 +18,8 @@
 <a href="https://www.charlesproxy.com/" Target="_blank"><img src="https://github.com/DenisChervony/web-images/blob/main/Charles_750.png" alt="Charles" width="48" height="48"> </a>
 <a href="https://www.postman.com/downloads/" Target="_blank"><img src="https://github.com/DenisChervony/web-images/blob/main/Postman_600.png" alt="Postman" width="48" height="48"> </a>
 <a href="https://cygwin.com/" Target="_blank"><img src="https://github.com/DenisChervony/web-images/blob/main/Cygwin_640.png" alt="Cygwin Terminal" width="48" height="48"> </a>
-<img src="https://github.com/DenisChervony/web-images/blob/main/Google_Sheets_logo.png" alt="Google Sheets" width="48" height="auto">
-<img src="https://github.com/DenisChervony/web-images/blob/main/Google_Docs_logo.png" alt="Google Docs" width="48" height="48">
+<img src="https://github.com/DenisChervony/web-images/blob/main/Google_Sheets_logo.png" alt="Google Sheets" width="auto" height="48">
+<img src="https://github.com/DenisChervony/web-images/blob/main/Google_Docs_logo.png" alt="Google Docs" width="auto" height="48">
 <img src="https://github.com/DenisChervony/web-images/blob/main/Adobe%20Photoshop.png" alt="Adobe Photoshop" width="48" height="48">
 
 <!--
