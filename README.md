@@ -14,7 +14,7 @@
 
 
 ### 📎Работал с инструментами:
-<img src="https://github.com/DenisChervony/web-images/blob/main/figma-colored.png" alt="Figma" width="48" height="48">
+<a href="https://www.figma.com/" Target="_blank"><img src="https://github.com/DenisChervony/web-images/blob/main/figma-colored.png" alt="Figma" width="48" height="48">
 
 ![Android_Studio](https://github.com/DenisChervony/web-images/blob/main/Android_Studio_Logo_1024.png "Android_Studio")
 
