@@ -22,6 +22,12 @@
 <img src="https://github.com/DenisChervony/web-images/blob/main/Google_Docs_logo.png" alt="Google Docs" width="auto" height="48">
 <img src="https://github.com/DenisChervony/web-images/blob/main/Adobe%20Photoshop.png" alt="Adobe Photoshop" width="48" height="48">
 
+### 📎Работал с языками:
+<img src="https://github.com/DenisChervony/web-images/blob/main/Adobe%20Photoshop.png" alt="Adobe Photoshop" width="48" height="48">
+
+
+
+
 <!--
 **reDen777/reDen777** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
