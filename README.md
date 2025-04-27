@@ -23,9 +23,9 @@
 <img src="https://github.com/DenisChervony/web-images/blob/main/Adobe%20Photoshop.png" alt="Adobe Photoshop" title="Adobe Photoshop" width="48" height="48">
 
 ### 📎Работал с языками:
-<a>
+<a> </a>
 <img src="https://github.com/DenisChervony/web-images/blob/main/HTML.png" alt="HTML" title="HTML" width="48" height="48"> 
-<img src="https://github.com/DenisChervony/web-images/blob/main/CSS.png" alt="CSS" title="CSS" width="48" height="48"> </a>
+<img src="https://github.com/DenisChervony/web-images/blob/main/CSS.png" alt="CSS" title="CSS" width="48" height="48">
 
 
 
