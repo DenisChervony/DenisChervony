@@ -26,7 +26,7 @@
 <a> </a>
 <img src="https://github.com/DenisChervony/web-images/blob/main/HTML.png" alt="HTML" title="HTML" width="48" height="48"> 
 <img src="https://github.com/DenisChervony/web-images/blob/main/CSS.png" alt="CSS" title="CSS" width="48" height="48">
-
+<img src="https://github.com/DenisChervony/web-images/blob/main/Markdown_630.png" alt="Markdown" title="Язык разметки Markdown" width="48" height="48">
 
 
 
