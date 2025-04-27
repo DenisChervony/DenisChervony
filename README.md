@@ -23,8 +23,7 @@
 <img src="https://github.com/DenisChervony/web-images/blob/main/Adobe%20Photoshop.png" alt="Adobe Photoshop" title="Adobe Photoshop" width="48" height="48">
 
 ### 📎Работал с языками:
-<img src="https://github.com/DenisChervony/web-images/blob/main/Google_Docs_logo.png" alt="Google Docs" title="Google Docs" width="auto" height="48">
-<img src="https://github.com/DenisChervony/web-images/blob/main/Adobe%20Photoshop.png" alt="Adobe Photoshop" title="Adobe Photoshop" width="48" height="48">
+<a href="https://developer.android.com/studio?hl=ru" Target="_blank"><img src="https://github.com/DenisChervony/web-images/blob/main/Android_Studio_Logo_1024.png" alt="Android_Studio" title="Android_Studio" width="48" height="48"> </a>
 <img src="https://github.com/DenisChervony/web-images/blob/main/HTML.png" alt="HTML" title="HTML" width="48" height="48">
 <img src="https://github.com/DenisChervony/web-images/blob/main/CSS.png" alt="CSS" title="CSS" width="48" height="48">
 
