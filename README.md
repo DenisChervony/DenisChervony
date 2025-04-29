@@ -2,7 +2,7 @@
 
 # Hello, world! Я Денис 👋
 
-💻 Я начинающий тестировщик. Окончил курс "Инженер по тестированию" от Яндекс.Практикум.
+💻 Я начинающий тестировщик. Окончил курс "Инженер по тестированию" от [Яндекс.Практикум][1].
 
 Проектирую проверки, тестирую Web, Mobile и API приложения, так же оформляю баг-репорты.
 
@@ -36,6 +36,10 @@
 <img src="https://github.com/DenisChervony/web-images/blob/main/CSS.png" alt="CSS" title="CSS" width="48" height="48">
 <img src="https://github.com/DenisChervony/web-images/blob/main/Markdown_630.png" alt="Markdown" title="Язык разметки Markdown" width="48" height="48">
 
+
+[1]: https://practicum.yandex.ru/referrals/?ref_code=gAAAAABnbQmGmEihuyVGqAzaBDJcyl9IWDGNfW9HFNkjeIVI80BceZPOhSmMS0Fktt8cwkp97xGMBYWkP7B0jJ2sKHBmWLtqjg%3D%3D
+[2]: https://www
+[3]: https://github.com/igorpoykov/portf
 
 
 <!--
