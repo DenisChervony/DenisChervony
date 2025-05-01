@@ -26,6 +26,7 @@
 <a href="https://www.charlesproxy.com/" Target="_blank"><img src="https://github.com/DenisChervony/web-images/blob/main/Charles_750.png" alt="Charles" title="Charles" width="48" height="48"> </a>
 <a href="https://www.postman.com/downloads/" Target="_blank"><img src="https://github.com/DenisChervony/web-images/blob/main/Postman_600.png" alt="Postman" title="Postman" width="48" height="48"> </a>
 <a href="https://cygwin.com/" Target="_blank"><img src="https://github.com/DenisChervony/web-images/blob/main/Cygwin_640.png" alt="Cygwin Terminal" title="Cygwin Terminal" width="48" height="48"> </a>
+<a href="https://code.visualstudio.com/" Target="_blank"><img src="https://github.com/DenisChervony/web-images/blob/main/Visual_Studio_Code.png" alt="Visual Studio Code" title="Visual Studio Code" width="48" height="48"> </a>
 <img src="https://github.com/DenisChervony/web-images/blob/main/Google_Sheets_logo.png" alt="Google Sheets" title="Google Sheets" width="auto" height="48">
 <img src="https://github.com/DenisChervony/web-images/blob/main/Google_Docs_logo.png" alt="Google Docs" title="Google Docs" width="auto" height="48">
 <img src="https://github.com/DenisChervony/web-images/blob/main/Adobe%20Photoshop.png" alt="Adobe Photoshop" title="Adobe Photoshop" width="48" height="48">
