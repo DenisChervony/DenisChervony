@@ -10,7 +10,7 @@
 
 Я увлечён тестированием и стремлюсь постоянно развиваться в этой области, находя новые задачи для улучшения качества программного обеспечения.
 
-### 📎Мои учебные кейсы:
+### 📋Мои учебные кейсы:
 - [Яндекс.Метро - тестирование мобильного-приложения](https://github.com/DenisChervony/Yandex_Metro)
 - [Яндекс.Прилавок - тестирование API web-приложения](https://github.com/DenisChervony/Yandex_Prilavok)
 - [Яндекс.Маршруты - тестирование web-приложения](https://github.com/DenisChervony/Yandex_Marshrut)
@@ -23,7 +23,7 @@
 | Яндекс.Практикум          | Дополнительные курсы "Инженер по тестированию" | полный курс               |
 
 
-### 📎Работал с инструментами:
+### 🔧Работал с инструментами:
 <a href="https://developer.android.com/studio?hl=ru" Target="_blank"><img src="https://github.com/DenisChervony/web-images/blob/main/Android_Studio_Logo_1024.png" alt="Android_Studio" title="Android_Studio" width="48" height="48"> </a>
 <a href="https://www.figma.com/" Target="_blank"><img src="https://github.com/DenisChervony/web-images/blob/main/figma-colored.png" alt="Figma" title="Figma" width="48" height="48"> </a>
 <a href="https://devtools.chrome.com/" Target="_blank"><img src="https://github.com/DenisChervony/web-images/blob/main/chrome-dev-logo-icon.png" alt="ChromeDevTools" title="Chrome Dev Tools" width="48" height="48"> </a>
