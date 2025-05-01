@@ -1,6 +1,6 @@
 <img src="https://github.com/DenisChervony/web-images/blob/main/DenisChervony.png" alt="Denis Chervony" align="center" style="width:100%; height:auto;">
 
-# Hello, world! Я Денис <img src="https://github.com/DenisChervony/web-images/blob/main/Hi.gif" alt="Google Sheets" title="Hi" width="auto" height="24">
+# Hello, world! Я Денис <img src="https://github.com/DenisChervony/web-images/blob/main/Hi.gif" alt="Google Sheets" title="Hi" width="auto" height="30">
 
 💻 Я начинающий тестировщик. Окончил курс "Инженер по тестированию" от [Яндекс.Практикум][1].
 
